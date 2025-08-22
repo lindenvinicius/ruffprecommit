@@ -4,7 +4,7 @@ def hello():
 
 
 
-def bye():
+deff bye():
     print("bye")
 
 
